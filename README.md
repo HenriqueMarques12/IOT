@@ -2,6 +2,8 @@
 IoT App
 Este é um aplicativo IoT desenvolvido com React e TypeScript utilizando Vite.
 
+link do aplicativo: https://iot-pink.vercel.app/
+
 Pré-requisitos
 Node.js (versão 14 ou superior)
 npm (versão 6 ou superior)
